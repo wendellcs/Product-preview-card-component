@@ -102,7 +102,7 @@ body {
 
 .btn-addToCart:hover {background-color: rgb(26 64 49);}
 
-.btn-addToCart a {
+.btn-addToCart {
     color: hsl(0, 0%, 100%);
     text-decoration: none;
     font-size: 15px;
@@ -146,8 +146,7 @@ body {
     .prices li:nth-child(1) {font-size: 44px;}
 
     .container-content .btn-addToCart {height: 60px; margin-bottom: 35px;}
-    .container-content .btn-addToCart {background-position: 32% center;}
-    .container-content .btn-addToCart a {font-size: 18px;}
+    .container-content .btn-addToCart {background-position: 32% center;font-size: 18px;}
     .attribution {padding: 20px;}
 }
 
