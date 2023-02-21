@@ -15,8 +15,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- [Solution: ](https://github.com/wendellcs/Product-preview-card-component)
-- [Live Site: ](https://wendellcs.github.io/Product-preview-card-component/)
+- [Solution ](https://github.com/wendellcs/Product-preview-card-component)
+- [Live Site ](https://wendellcs.github.io/Product-preview-card-component/)
 
 ### Built with
 
