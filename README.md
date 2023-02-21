@@ -15,8 +15,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- [Solution: ](https://your-solution-url.com)
-- [Live Site: ](https://your-live-site-url.com)
+- [Solution: ](https://github.com/wendellcs/Product-preview-card-component)
+- [Live Site: ](https://wendellcs.github.io/Product-preview-card-component/)
 
 ### Built with
 
@@ -30,5 +30,5 @@ I learned to deal better with responsive.
 
 ## Author
 
-- [My portfolio:](https://wendellcs.github.io)
+- My portfolio - [WendellCS](https://wendellcs.github.io)
 - Frontend Mentor - [@WendellCS](https://www.frontendmentor.io/profile/WendellCS)
